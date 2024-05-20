@@ -1,6 +1,6 @@
 # ![RealWorld Example App](./logo.png)
 
-**中文** | [English](./README.en-US.md)  
+**English** | [中文](./README.md)
 
 **Java 21 + SpringBoot 3 + MyBatis** codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.  
 

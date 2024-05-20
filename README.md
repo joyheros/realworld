@@ -1,6 +1,6 @@
 # ![RealWorld Example App](./logo.png)
 
-**English** | [中文](./README.md)  
+**中文** | [English](./README.en-US.md)
 
 **Java 21 + SpringBoot 3 + MyBatis** 代码库包含符合[RealWorld](https://github.com/gothinkster/realworld)规范和API的真实示例(CRUD, auth，高级模式等)。  
 
